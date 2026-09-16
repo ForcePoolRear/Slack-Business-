@@ -1,0 +1,23 @@
+{
+  "repo": "slack-business",
+  "product": "Slack Business+",
+  "kind": "productivity",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "team-chat",
+  "topics": [
+    "slack-workspace",
+    "team-channels-desktop",
+    "huddle-audio-tools",
+    "slack-windows",
+    "workspace-search-2026",
+    "how-to-install-slack",
+    "slack-desktop-package",
+    "thread-pin-suite",
+    "slack-pro-edition",
+    "office-chat-desk"
+  ],
+  "site": "toolix.me"
+}
